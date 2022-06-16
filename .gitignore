@@ -1,0 +1,10 @@
+.idea/
+[Bb]in/
+[Oo]bj/
+[Pp]ackages/
+*.suo
+*.user
+.vs/
+Thumbs.db
+Desktop.ini
+.DS_Store
